@@ -3,15 +3,15 @@
   "churches": {
     "waukesha-city-church": {
       "name": "Waukesha City Church",
-      "latest": "2026.08.3",
-      "dbURL": "https://github.com/19parfrg/lamp-church-packs/releases/download/waukesha-city-church-2026.08.3/church.sqlite",
-      "dbBytes": 204800,
-      "dbSHA256": "142e2cc62dbd5df4a1f36438f5e3641458ba2dd85a7a4bcf329ea38222408da9",
-      "embeddingsURL": "https://github.com/19parfrg/lamp-church-packs/releases/download/waukesha-city-church-2026.08.3/chunks.bin",
-      "embeddingsBytes": 86656,
-      "embeddingsSHA256": "3024e19ee3dbad305b3bfd2a92ef9a0cce16c4de543b998d22427c151b403664",
-      "sermonCount": 2,
-      "builtAt": "2026-08-06T07:33:42Z"
+      "latest": "2026.08.4",
+      "dbURL": "https://github.com/19parfrg/lamp-church-packs/releases/download/waukesha-city-church-2026.08.4/church.sqlite",
+      "dbBytes": 18759680,
+      "dbSHA256": "4fb77602450e19fb09404c25766aac333d660e18fd2e47b0b51a2d7eb1a9d80a",
+      "embeddingsURL": "https://github.com/19parfrg/lamp-church-packs/releases/download/waukesha-city-church-2026.08.4/chunks.bin",
+      "embeddingsBytes": 12603328,
+      "embeddingsSHA256": "921330f38d16ca26e730ce11ff758ec6bbf314e8b036f56709e5349410fea31b",
+      "sermonCount": 303,
+      "builtAt": "2026-08-07T10:41:03Z"
     }
   }
 }
