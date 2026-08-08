@@ -3,15 +3,15 @@
   "churches": {
     "waukesha-city-church": {
       "name": "Waukesha City Church",
-      "latest": "2026.08.4",
-      "dbURL": "https://github.com/19parfrg/lamp-church-packs/releases/download/waukesha-city-church-2026.08.4/church.sqlite",
+      "latest": "2026.08.5",
+      "dbURL": "https://github.com/19parfrg/lamp-church-packs/releases/download/waukesha-city-church-2026.08.5/church.sqlite",
       "dbBytes": 18759680,
-      "dbSHA256": "4fb77602450e19fb09404c25766aac333d660e18fd2e47b0b51a2d7eb1a9d80a",
-      "embeddingsURL": "https://github.com/19parfrg/lamp-church-packs/releases/download/waukesha-city-church-2026.08.4/chunks.bin",
+      "dbSHA256": "7609b9308d197f116e4fac811609e28a45e56b0ba21771381a11412299c137f5",
+      "embeddingsURL": "https://github.com/19parfrg/lamp-church-packs/releases/download/waukesha-city-church-2026.08.5/chunks.bin",
       "embeddingsBytes": 12603328,
       "embeddingsSHA256": "921330f38d16ca26e730ce11ff758ec6bbf314e8b036f56709e5349410fea31b",
       "sermonCount": 303,
-      "builtAt": "2026-08-07T10:41:03Z"
+      "builtAt": "2026-08-08T17:57:20Z"
     }
   }
 }
