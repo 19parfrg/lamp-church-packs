@@ -12,6 +12,18 @@
       "embeddingsSHA256": "921330f38d16ca26e730ce11ff758ec6bbf314e8b036f56709e5349410fea31b",
       "sermonCount": 303,
       "builtAt": "2026-08-08T17:57:20Z"
+    },
+    "woodridge-community-church": {
+      "name": "Woodridge Community Church",
+      "latest": "2026.08.1",
+      "dbURL": "https://github.com/19parfrg/lamp-church-packs/releases/download/woodridge-community-church-2026.08.1/church.sqlite",
+      "dbBytes": 51998720,
+      "dbSHA256": "ce9250d3b9db7e725413fb466d70608ab325afdc0ba61a654dca3a3149fec2bd",
+      "embeddingsURL": "https://github.com/19parfrg/lamp-church-packs/releases/download/woodridge-community-church-2026.08.1/chunks.bin",
+      "embeddingsBytes": 31187584,
+      "embeddingsSHA256": "b333eb46593da32c4f54bc56801abf0431b1b57da4715db18599846063aef427",
+      "sermonCount": 685,
+      "builtAt": "2026-08-08T17:57:30Z"
     }
   }
 }
